@@ -1637,7 +1637,7 @@
             ]
             } ],
             "fail_outcomes": [
-                {"text": "r_c snarls. {PRONOUN/r_c/subject/CAP} {VERB/r_c/is/are} too cold and too hungry to watch a stupid fox. This will be a hard hunt and if you can't focus, then go huddle with the kits at camp. ",
+                {"text": "r_c snarls. {PRONOUN/r_c/subject/CAP} {VERB/r_c/is/are} too cold and too hungry to watch a stupid fox. This will be a hard hunt and if you can't focus, then go huddle with the kits back at camp. ",
                 "exp": 0,
                 "weight": 15, 
                 "prey": ["very small"],
